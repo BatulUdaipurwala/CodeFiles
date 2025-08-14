@@ -1,0 +1,30 @@
+{
+  "dataset": {
+    "last_date": "2025-08-14",
+    "pct_volatile_tags": 0.3,
+    "volatile_share_of_clicks": 0.37802324600574516,
+    "pct_new_tags": 0.0,
+    "new_tags_clicks_share": 0.0,
+    "is_highly_volatile": true,
+    "insights": []
+  },
+  "buckets": {
+    "counts": [
+      {
+        "bucket": "head",
+        "is_new_tag": false,
+        "num_typetags": 8
+      },
+      {
+        "bucket": "tail",
+        "is_new_tag": false,
+        "num_typetags": 20
+      },
+      {
+        "bucket": "torso",
+        "is_new_tag": false,
+        "num_typetags": 12
+      }
+    ]
+  }
+}
